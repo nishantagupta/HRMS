@@ -1,0 +1,18 @@
+Employees Working/Attendance System
+
+	1. Employee ID
+	2. Employee Name
+	3. Employee Photo
+	4. Working Type
+		1 Full Time
+		2 Part Time
+		3 On Contract
+	5. Working Hours
+		1 In time
+		2 Out time
+	6. Leaves 
+		1 Leaves type
+		2 Leaves period
+	7. Payment
+		1 Total payment
+		2 Including leaves payment
