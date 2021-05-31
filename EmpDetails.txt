@@ -1,0 +1,17 @@
+
+Details of Employee:
+	
+	1.Full Name
+	2.Age
+	3.gender
+	4.Address
+	5.Contact No	
+	6.Address Proof:
+		Aadhar card
+		Pan card
+  	 7.Marital status
+	 8.No of family members
+	 9.Employee Type
+	 10.Joining Date
+	
+	
